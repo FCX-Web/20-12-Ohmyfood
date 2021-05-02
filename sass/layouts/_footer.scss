@@ -1,0 +1,26 @@
+footer a {
+    color: $color_reverse;
+    text-decoration: none;
+    margin-bottom: 11px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    @include backcolor-darken($color_background, 30);
+    padding: 25px;
+    &__title {
+        font-family: 'Shrikhand';
+        font-size: 1.1rem;
+        color: $color_reverse;
+        margin-bottom: 20px;
+    }
+    &__container {
+        display: grid;
+        grid-template-columns: 23px auto;
+        align-items: center;
+        &--size-i {
+            font-size: 0.8rem;
+        }
+    }
+}
