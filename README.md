@@ -2,4 +2,4 @@ Ohmyfood est le troisième projet du parcours Développeur web chez OpenClassroo
 
 L'objectif est d'intégrer, puis de dynamiser une page web avec des animations CSS, et d'utiliser le préprocesseur Sass.
 
-Stack : HTML5, CSS3, Sass
+Tech stack : HTML5, CSS3, Sass - animations
