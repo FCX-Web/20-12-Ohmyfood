@@ -5,7 +5,6 @@ L'objectif est d'intégrer, puis de dynamiser une page web avec des animations C
 Tech stack : HTML5, CSS3, Sass - animations
 
 Cahier des charges : 
-
    https://github.com/FCX-Web/20-12-Ohmyfood/blob/main/ohmyfood.pdf  
    https://github.com/FCX-Web/20-12-Ohmyfood/blob/main/Brief%20cre%CC%81atif%20-%20Ohmyfood!.pdf
   
